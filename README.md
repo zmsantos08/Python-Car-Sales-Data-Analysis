@@ -9,7 +9,7 @@ This in turn will ensure that dealer stock levels align with anticipated custome
 ## ***The Data***
 The Data consists of car sales between 01-01-2022 and 30-12-2023 across the US (synthethic data: 23906 rows (1 row = 1 sale) and 16 columns ).
 
-https://www.kaggle.com/datasets/missionjee/car-sales-report
+Car_sales table from -- https://www.kaggle.com/datasets/missionjee/car-sales-report
 
 ## ***The Tools***
 
