@@ -6,6 +6,9 @@ The Data consists of car sales data between 01-01-2022 and 30-12-2023 across the
 https://www.kaggle.com/datasets/missionjee/car-sales-report
 
 ## ***The Tools***
+
+Jupyer Notebook
+
 Python Libraries used (Numpy, Pandas, Matplotlib, Seaborn)
 
 AI assisted in some complex visualizations
@@ -25,35 +28,35 @@ How are Sales Trends evolving and are there any seasonal patterns to get insight
 
 How is the car sales activity during the different days of the week?
 
-**Regional**
+**--Regional--**
 
 Which Regions are selling the most and how are the trends evolving?
 
-**Engine**
+**--Engine--**
 
 Which Engine Type sells more and should we be shifting production to satisfy consumer preferences?
 
-**Transmission**
+**--Transmission--**
 
 Which Transmission Type sells more and should we be shifting production to satisfy consumer preferences?
 
-**Body Style**
+**--Body Style--**
 
 What do Body Style trends tell us? Should we be shifting production to satisfy consumer preferences? Does Gender play a role on it?
 
-**Gender**
+**--Gender--**
 
 What are car sales trends per gender telling us? Should we prepare our models to cater to a specific gender preference?
 
-**Color**
+**--Color--**
 
 What are car sales color trends telling us? Should we increase the supply of certain colors?
 
-**Price Category**
+**--Price Category--**
 
 How are different car price levels sales evolving? Should we adapt our pricing strategy?
 
-**Income Group**
+**--Income Group--**
 
 How is each Income Group trend sales evolving? What are their preferences for Body Style, so we can adapt our supply according to the groups we want to target?
 
