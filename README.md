@@ -11,6 +11,9 @@ The goal of this project is to leverage Market and Seasonal Analysis to derive u
 This information will be obtained by identifying key cyclical trends and market drivers, in order to optimize the Supply Chains and Inventory management.
 This in turn will ensure that dealer stock levels align with anticipated customer demand, minimizing costly overstocking while preventing lost sales due to stockouts, ultimately maximizing profitability and operational efficiency.
 
+## ***Example plot***
+<img width="1108" height="601" alt="image" src="https://github.com/user-attachments/assets/13e764ee-8119-4474-bcb1-063f2ed74c4b" />
+
 ## ***The Tools***
 
 Jupyter Notebook
