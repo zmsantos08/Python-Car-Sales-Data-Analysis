@@ -1,15 +1,15 @@
 # Car-Sales-Data-Analysis-with-Python
 
+## ***The Data***
+The data consists of car sales between 01-01-2022 and 30-12-2023 across the US (synthethic data: 23906 rows (1 row = 1 sale) and 16 columns ).
+
+Car_sales table from -- https://www.kaggle.com/datasets/missionjee/car-sales-report
+
 ## ***The Goal***
 
 The goal of this project is to leverage Market and Seasonal Analysis to derive useful information from sales data.
 This information will be obtained by identifying key cyclical trends and market drivers, in order to optimize the Supply Chains and Inventory management.
 This in turn will ensure that dealer stock levels align with anticipated customer demand, minimizing costly overstocking while preventing lost sales due to stockouts, ultimately maximizing profitability and operational efficiency.
-
-## ***The Data***
-The data consists of car sales between 01-01-2022 and 30-12-2023 across the US (synthethic data: 23906 rows (1 row = 1 sale) and 16 columns ).
-
-Car_sales table from -- https://www.kaggle.com/datasets/missionjee/car-sales-report
 
 ## ***The Tools***
 
