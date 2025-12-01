@@ -13,7 +13,7 @@ This in turn will ensure that dealer stock levels align with anticipated custome
 
 ## ***The Tools***
 
-Jupyer Notebook
+Jupyter Notebook
 
 Python Libraries used (Numpy, Pandas, Matplotlib, Seaborn)
 
