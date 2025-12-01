@@ -1,12 +1,12 @@
 # Car-Sales-Data-Analysis-with-Python
 
 ## ***The Data***
-The Data consists of 23906 rows (1 row = 1 sale) and 16 columns across the US (synthethic data)
+The Data consists of car sales data between 01-01-2022 and 30-12-2023 across the US (synthethic data: 23906 rows (1 row = 1 sale) and 16 columns ).
 
 https://www.kaggle.com/datasets/missionjee/car-sales-report
 
 ## ***The Tools***
-Python Libraries (Numpy, Pandas, Matplotlib, Seaborn)
+Python Libraries used (Numpy, Pandas, Matplotlib, Seaborn)
 
 AI assisted in some complex visualizations
 
