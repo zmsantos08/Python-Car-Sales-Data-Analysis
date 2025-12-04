@@ -1,4 +1,6 @@
-# Car-Sales-Data-Analysis-with-Python [Link to the Project](https://github.com/zmsantos08/Python-Car-Sales-Data-Analysis/blob/f0c0cb963c185f9b0cdd6f600915ec63c1161151/Car_Sales.ipynb)
+# Car-Sales-Data-Analysis-with-Python 
+
+# [Link to the Project](https://github.com/zmsantos08/Python-Car-Sales-Data-Analysis/blob/f0c0cb963c185f9b0cdd6f600915ec63c1161151/Car_Sales.ipynb)
 
 ## ***The Data***
 The data consists of car sales between 01-01-2022 and 30-12-2023 across the US (synthethic data: 23906 rows (1 row = 1 sale) and 16 columns ).
