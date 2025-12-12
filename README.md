@@ -22,8 +22,6 @@ Jupyter Notebook
 
 Python Libraries used (Numpy, Pandas, Matplotlib, Seaborn)
 
-AI assisted in some complex visualizations
-
 ## ***The Structure***
 ### **1 - Importing, Data Overview and Data Cleaning**
   
